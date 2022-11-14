@@ -1,1 +1,1 @@
-# PC-Gadgets
+A MERN stack Application
